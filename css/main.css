@@ -1,0 +1,347 @@
+header {
+	width: 100%;
+}
+.logo {
+	position: relative;
+	right: 150px;
+	top: 10px;
+}
+.logo img {
+    width: 100px;
+    height: 90px;
+}
+nav ul {
+	position: relative;
+	left: 250px;
+	top: -50px;
+}
+nav ul a {
+	text-decoration: none;
+	font-family: OpenSans-Light;
+	color: #9B9DA0;
+	margin-left: 20px;
+	margin-right: 25px;
+}
+.plantImg {
+	background-image: url("../img/semilla.jpg");
+	width: 100%;
+	height: 330px;
+	background-position: 1px -290px;
+}
+.NosotrosSection {
+	background-color: #F2F2F2;
+}
+.infoNosotros p {
+	color: #718499;
+	text-align: center;
+	font-family: OpenSans-Light;
+	font-size: 15px;
+}
+.infoNosotros {
+	margin-bottom: 70px;
+	margin-top: 60px;
+}
+.mvisionPic img {
+	margin-left: 300px;
+	margin-top: 60px;
+}
+.mvisionPic h3 {
+	color: black;
+	font-family: OpenSans-Light;
+	margin-left: 350px;
+	margin-top: 10px;
+}
+.mvisionPic p {
+	color:  #718499;
+	font-family: OpenSans-Light;
+	font-size: 12px;
+	margin-bottom: 85px;
+	margin-left: 60px;
+    text-align: center;
+}
+.photo-people {
+	height: 400px;
+	background-image: url("../img/metodo.JPG");
+    background-size: 715px 500px;
+    background-repeat: no-repeat;
+}
+.metodologia {
+	height: 400px;
+	background-image: url("../img/fondo.jpg");
+    background-size: 765px 500px;
+    background-repeat: no-repeat;
+    background-position: -50px 1px;
+}
+.metodologia p {
+	color: white;
+	font-family: OpenSans-Light;
+	text-align: center; 
+	position: relative;
+	top: 150px;
+	left: 70px;
+	font-size: 14px;
+}
+.parrafo-metod {
+	width: 550px;
+}
+.metodologia h3 {
+	color: white;
+	font-family: OpenSans-Light;
+	position: relative;
+	left: 300px;
+	top: 110px;
+}
+.metodologia img {
+    position: relative;
+    left: 327px;
+    top: 80px;
+}
+.servicios-row h3 {
+	color: black;
+	font-size: 20px;
+	font-family: OpenSans-Light;
+	position: relative;
+	left: 350px;
+	top: -26px;
+}
+.servicios-row p {
+	color: black;
+	font-size: 12px;
+	font-family: OpenSans-Light;
+	text-align: center;
+	position: relative;
+	left: 12px;
+	top: 14px;
+}
+.textrow {
+	margin: 80px;
+}
+.servicios img {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 158px;
+}
+.titulos-servicios h5{
+	color: #768039;
+    font-family: OpenSans-Light;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    left: 8px;
+    margin-bottom: 20px;
+}
+.parrafos-servicios {
+	font-size: 12px;
+	font-family: OpenSans-Light;
+    text-align: center;
+    width: 383px;
+    margin-bottom: 55px;
+    position: relative;
+    left: 36px;
+}
+.bg-green img {
+	width: 400px;
+	height: 250px;
+	margin-left: 120px;	
+}
+.mt-50 {
+	margin-top: 50px;
+}
+.mb-50 {
+	margin-bottom: 50px;
+}
+.bg-green h4 {
+    color: white;
+    font-family: OpenSans-Light;
+    position: relative;
+    left: 120px;
+    top: 50px;
+}
+.bg-green h3 {
+    text-align: center;
+    color: white;
+    font-family: OpenSans-Light;   
+    position: relative;
+    left: -50px;
+    top: 120px;
+}
+.bg-green h6 {
+	text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: OpenSans-Light;
+    position: relative;
+    left: -50px;
+    top: 125px;
+}
+.bg-green p {
+	text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: OpenSans-Light;
+    position: relative;
+    left: 40px;
+    top: 125px;
+}
+.parraf-proyectos {
+	width: 500px;
+}
+.pr-top {
+	position: relative;
+	top: -50px;
+}
+.teamsection h5 {
+	color: #768039;
+	font-family: OpenSans-Light;
+    margin-top: 50px;
+    font-size: 15px;
+    margin-bottom: 5px,
+}
+.fototeam img {
+	border-radius: 100%;
+	width: 200px;
+	position: relative;
+	left: 120px;
+}
+.fototeam {
+	border-radius: 100%;
+	width: 200px;
+}
+.teamsection h4 {
+	color: black;
+	font-family: OpenSans-Light;
+    text-align: center;
+}
+.teamsection h6 {
+	color: black;
+	font-family: OpenSans-Light;
+    text-align: center;
+}
+.teamsection p {
+	color: black;
+	font-family: OpenSans-Light;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 15px;
+}
+.redesociales-team {
+	width: 25px;
+	height: 25px;
+	position: relative;
+	left: 175px;
+	bottom: 70px;
+	margin-right: 5px;
+}
+.blog-section {
+	background-image: url("../img/fondo2.jpg");
+}
+.blog-section h3 {
+	color: black;
+	font-family: OpenSans-Light;
+    position: relative;
+    left: 65px;
+    top: 49px;
+}
+.blog-section h4 {
+	color: black;
+	font-family: OpenSans-Light;
+    position: relative;
+    left: 90px;
+}
+.blog-section h5 {
+	color: black;
+	font-family: OpenSans-Light;
+    position: relative;
+    left: 90px;
+}
+.blog-section h6 {
+	color: black;
+	font-family: OpenSans-Light;
+    position: relative;
+    left: 90px;
+}
+.parrafoBlog {
+	width: 300px;
+	text-align: justify;
+	margin-bottom: 30px;
+}
+.sliderButtonLeft {
+	position: relative;
+	left: -915px;
+	top: 165px;
+}
+.sliderButtonRight {
+	position: relative;
+	left: 400px;
+	top: 170px;
+}
+.fotosBlog img {
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 90px;
+	margin-top: 50px;
+}
+.mt img {
+	position: relative;
+	top: -35px;
+}
+.mt h4 {
+	position: relative;
+	top: -35px;
+}
+.mt h5 {
+	position: relative;
+	top: -35px;
+}
+.mt h6 {
+	position: relative;
+	top: -35px;
+}
+.redesSociales-section {
+	background-color: #4D4D4D;
+}
+.redsocial {
+	border: solid white 1px;
+	width: 321px;
+	height: 250px;
+	display: inline-block;
+}
+.redsocial img {
+	width: 40px;
+	height: 40px;
+	position: relative;
+	left: 210px;
+	top: 170px;
+}
+.emailSize {
+    height: 30px !important;
+}
+.redsocial p {
+	color: white;
+	font-family: OpenSans-Light;
+	font-size: 15px;
+	position: relative;
+	left: 25px;
+	top: 25px;
+}
+.elaboradoPor {
+	color: black;
+	font-family: OpenSans-Light;
+	font-size: 15px;
+    position: relative;
+    left: 80px;
+}
+.datosEcomunidad {
+	color: black;
+	font-size: 15px;
+	text-align: right;
+	position: relative;
+	right: 50px;
+	font-family: OpenSans-Regular;
+}
+
+
+
+
